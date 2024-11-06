@@ -1,0 +1,19 @@
+{
+  "name": "sprunked",
+  "version": "1.0.0",
+  "description": "Sprunked - The Ultimate Platformer Game",
+  "main": "game.js",
+  "scripts": {
+    "start": "http-server -c-1 ."
+  },
+  "dependencies": {
+    "http-server": "^0.12.3"
+  },
+  "keywords": [
+    "game",
+    "platformer",
+    "sprunked"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
