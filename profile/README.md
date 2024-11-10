@@ -1,4 +1,4 @@
-# Sprunked: The Ultimate Platformer Adventure Game 🌌
+# Sprunked 2.0 Online - Play Sprunki Incredibox Game for Free! 🌌
 
 ## [Play Sprunked Now!](https://apkitech.com/)
 
