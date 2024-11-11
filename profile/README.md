@@ -56,3 +56,13 @@ We welcome contributions! If you want to help make Sprunked even better:
 3. Commit your changes (`git commit -m 'Add NewFeature'`).
 4. Push to the branch (`git push origin feature/NewFeature`).
 5. Open a Pull Request.
+
+https://github.com/Sprunki-Greencore-Game
+
+https://github.com/Sprunki-Halloween-Game
+
+https://github.com/Sprunki-Baby-Game
+
+https://github.com/Sprunki-Retake-Game
+
+https://github.com/Sprunki-Mustard-Game
