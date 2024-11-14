@@ -57,16 +57,4 @@ We welcome contributions! If you want to help make Sprunked even better:
 4. Push to the branch (`git push origin feature/NewFeature`).
 5. Open a Pull Request.
 
-https://github.com/Sprunki-Mostaza
-
-https://github.com/Stardew-Valley-Mobile
-
-https://github.com/Glassify-Icon-Pack
-
-https://github.com/Homicipher-Mobile
-
-https://github.com/GTA-5-Mobile-PC
-
-https://github.com/PVZ-Fusion-Mobile
-
-https://github.com/Sprunki-Mustard-Online
+https://github.com/Free-Fire-Advance-Server-OB
