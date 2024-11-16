@@ -56,18 +56,3 @@ We welcome contributions! If you want to help make Sprunked even better:
 3. Commit your changes (`git commit -m 'Add NewFeature'`).
 4. Push to the branch (`git push origin feature/NewFeature`).
 5. Open a Pull Request.
-
-
-https://github.com/DramaBox-Android
-
-https://github.com/Super-Hybrid
-
-https://github.com/Grand-Theft-Auto-San-Andreas-Mobile
-
-https://github.com/Free-Fire-India
-
-https://github.com/94fbr-india
-
-https://github.com/JoiPlay-Android
-
-https://github.com/FireKirin-Mobile
