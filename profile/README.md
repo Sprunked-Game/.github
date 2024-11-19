@@ -12,7 +12,6 @@ Welcome to **Sprunked**, an exciting and challenging platformer game that will p
 - **Beautiful Levels**: Hand-crafted levels that grow in difficulty as you progress.
 - **Unique Power-ups**: Collect items that grant you special abilities and enhance your character.
 - **Challenging Obstacles**: Dodge spikes, jump over gaps, and avoid traps in this immersive platformer.
-https://github.com/fnf-game-play
 
 ## 🎮 How to Play
 
