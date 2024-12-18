@@ -56,17 +56,3 @@ We welcome contributions! If you want to help make Sprunked even better:
 3. Commit your changes (`git commit -m 'Add NewFeature'`).
 4. Push to the branch (`git push origin feature/NewFeature`).
 5. Open a Pull Request.
-
-6. https://github.com/corrupttbox/corrupttbox-3
-7. 
-https://github.com/corrupttbox/corrupttbox-2
-
-https://github.com/corrupttbox/corrupttbox
-
-https://github.com/pvz-fusion-official
-
-https://github.com/pvz-fusion-official/pvz-fusion-2-1-7
-
-https://github.com/pvz-fusion-official/pvz-fusion-2-1-6
-
-https://github.com/pvz-fusion-official/pvz-fusion-2-1-5
